@@ -43,7 +43,7 @@
   - ผลลัพธ์: ค่า is_completed ในฐานข้อมูลเปลี่ยนจาก 0 เป็น 1 (ทำเสร็จแล้ว) พร้อมตอบกลับข้อมูลเวอร์ชันล่าสุด
   - Status: 200 OK
 
-  <img width="1158" height="794" alt="ภาพถ่ายหน้าจอ 2569-08-20 เวลา 22 50 44" src="https://github.com/user-attachments/assets/d72f3443-d19b-4947-99f9-5276124a2abd" />
+ <img width="1156" height="794" alt="ภาพถ่ายหน้าจอ 2569-08-20 เวลา 22 48 47" src="https://github.com/user-attachments/assets/edec38a3-95f1-4149-818a-9a90de80abaf" />
 
 
 * **5. Delete Task (DELETE /api/tasks/1)**
